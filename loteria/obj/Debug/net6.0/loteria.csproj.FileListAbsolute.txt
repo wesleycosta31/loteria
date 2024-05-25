@@ -1,0 +1,15 @@
+C:\Users\Wesley\Desktop\loteria\loteria\bin\Debug\net6.0\loteria.exe
+C:\Users\Wesley\Desktop\loteria\loteria\bin\Debug\net6.0\loteria.deps.json
+C:\Users\Wesley\Desktop\loteria\loteria\bin\Debug\net6.0\loteria.runtimeconfig.json
+C:\Users\Wesley\Desktop\loteria\loteria\bin\Debug\net6.0\loteria.dll
+C:\Users\Wesley\Desktop\loteria\loteria\bin\Debug\net6.0\loteria.pdb
+C:\Users\Wesley\Desktop\loteria\loteria\obj\Debug\net6.0\loteria.csproj.AssemblyReference.cache
+C:\Users\Wesley\Desktop\loteria\loteria\obj\Debug\net6.0\loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Desktop\loteria\loteria\obj\Debug\net6.0\loteria.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\loteria\loteria\obj\Debug\net6.0\loteria.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\loteria\loteria\obj\Debug\net6.0\loteria.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\loteria\loteria\obj\Debug\net6.0\loteria.dll
+C:\Users\Wesley\Desktop\loteria\loteria\obj\Debug\net6.0\refint\loteria.dll
+C:\Users\Wesley\Desktop\loteria\loteria\obj\Debug\net6.0\loteria.pdb
+C:\Users\Wesley\Desktop\loteria\loteria\obj\Debug\net6.0\loteria.genruntimeconfig.cache
+C:\Users\Wesley\Desktop\loteria\loteria\obj\Debug\net6.0\ref\loteria.dll
